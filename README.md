@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @joseph1mont
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-joseph1mont/joseph1mont is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Joseph Thomas 
+- 👀 I’m a Senior Frontend Developer
+- 💞️ I’m looking to build, add features or fix websites
+- 📫 info@freelancewebdesignusa.com
